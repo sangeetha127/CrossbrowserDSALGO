@@ -9,6 +9,7 @@ public class Combase {
 	 public HomePage homepage;
 	 public Arrays arraypage;
 	 public Loginpage loginpage;
+	 public Arrays arrays;
 	 public StackPage stackpage;
 	 public QueuePage queuepage;
 	 public elementutilities eleuti;
