@@ -17,7 +17,8 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 		//dryRun=false, // (=true)->compilation purpose mostly to chk stepdefinitions are implemented or not
 		//tags = "@tag1 or @tag2 or @tag3 or @tag4 or @tag5", //tags from feature file
 		//tags = "@tag6 or @tag7 or @tag8 or @tag9 or @tag10 or @tag11 or @tag12 or @tag13 or @tag14"
-		tags = "@tag6 or @tag7 or @tag8 or @tag9 or @tag10 or @tag11 or @Question1 or @Question2 or @Question3 or @Question4 or @tag12 or @tag13 or @tag14 or @tag15 or @tag16 or @tag17 or @tag18 or @tag19 or @tag20 or @tag21 or @tag22", //tags from feature file
+		//tags = "@tag6 or @tag7 or @tag8 or @tag9 or @tag10 or @tag11 or @Question1 or @Question2 or @Question3 or @Question4 or @tag12 or @tag13 or @tag14 or @tag15 or @tag16 or @tag17 or @tag18 or @tag19 or @tag20 or @tag21 or @tag22", //tags from feature file
+		tags = "@tag6 or @tag23 or @tag24 or @tag25 or @tag26",
 		features = {"src/test/resources/Features"}, //location of feature files, we can give this way-->".//features//"
 		glue= {"stepdefinitions","Allhooks"}) //location of step definition files, gives granural level of info in test result
 

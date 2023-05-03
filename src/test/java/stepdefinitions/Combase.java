@@ -12,5 +12,6 @@ public class Combase {
 	 public Arrays arrays;
 	 public StackPage stackpage;
 	 public QueuePage queuepage;
+	 public GraphPage graphpage;
 	 public elementutilities eleuti;
 }
