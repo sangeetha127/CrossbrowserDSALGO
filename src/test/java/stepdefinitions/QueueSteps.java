@@ -40,7 +40,8 @@ public class QueueSteps extends Combase {
 
 	@When("user select queue option")
 	public void user_select_queue_option() throws InterruptedException {
-		queuepage.selectqueue();
+		//queuepage.selectqueue();
+		homepage.selectqueue();
 		Thread.sleep(1000);
 		LoggerLoad.info("select Queue menu from dropdown");	   
 	}

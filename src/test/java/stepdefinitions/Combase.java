@@ -10,6 +10,7 @@ public class Combase {
 	 public Arrays arraypage;
 	 public Loginpage loginpage;
 	 public Arrays arrays;
+	 public Lnklist linkedlistpage;
 	 public StackPage stackpage;
 	 public QueuePage queuepage;
 	 public GraphPage graphpage;

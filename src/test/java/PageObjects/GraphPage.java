@@ -32,10 +32,10 @@ public class GraphPage extends Combase {
 	}
 	
 	
-	public void dropdownOption()
+	/*public void dropdownOption()
 	{
 		graphOption.click();
-	}
+	}*/
 	
 	public void graphHomepage()
 	{

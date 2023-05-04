@@ -42,7 +42,8 @@ public class Stacksteps extends Combase {
 
 	@When("user select stack option")
 	public void user_select_stack_option() throws InterruptedException {
-		stackpage.selectstack();
+		//stackpage.selectstack();
+		homepage.selectstack();
 		Thread.sleep(1000);
 		LoggerLoad.info("select stack menu from dropdown");
 	}
