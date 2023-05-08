@@ -1452,3 +1452,1292 @@
 ['INFO ]2023-05-06 21:48:15,003(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-select practice questions in graph
 ['INFO ]2023-05-06 21:48:15,308(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
 ['INFO ]2023-05-06 21:48:21,496(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:01:19,707(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:01:19,711(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:01:22,762(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:01:22,783(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-launch browser
+['INFO ]2023-05-08 10:01:22,793(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com
+['INFO ]2023-05-08 10:01:22,980(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-portal opened
+['INFO ]2023-05-08 10:01:23,225(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Getstarted btn click
+['INFO ]2023-05-08 10:01:23,246(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-NumpyNinja
+['INFO ]2023-05-08 10:01:23,248(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigated to home page
+['INFO ]2023-05-08 10:01:23,251(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:01:23,322(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:01:23,323(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:01:23,324(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Home Page dropdown click
+['INFO ]2023-05-08 10:01:23,324(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-08 10:01:23,334(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-08 10:01:23,385(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter arrayselection
+['ERROR]2023-05-08 10:01:23,520(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-shows user not logged in
+['INFO ]2023-05-08 10:01:23,545(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:01:23,558(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:01:23,559(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:01:23,611(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Get started button click
+['INFO ]2023-05-08 10:01:23,611(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['ERROR]2023-05-08 10:01:23,738(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-shows user not logged in
+['INFO ]2023-05-08 10:01:23,756(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:01:23,794(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:01:23,796(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:01:23,797(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:01:23,919(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:01:24,418(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:01:24,595(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:01:24,600(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:01:24,746(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 10:01:24,759(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:01:24,771(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:01:24,771(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:01:24,772(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:01:24,866(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:01:24,919(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:01:25,062(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:01:25,065(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:01:25,182(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 10:01:25,190(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:01:25,200(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:01:25,200(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:01:25,201(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:01:25,296(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:01:25,345(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:01:25,493(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:01:25,497(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:01:25,638(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 10:01:25,648(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:01:25,657(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:01:25,658(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:01:25,658(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:01:25,743(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:01:25,777(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:01:25,942(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:01:25,947(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:01:26,067(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:01:26,112(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:01:26,113(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:01:26,115(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:01:26,218(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:01:26,285(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:01:26,446(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:01:26,449(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:01:26,580(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:01:26,602(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:01:26,603(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:01:26,605(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:01:26,709(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:01:26,782(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:01:26,937(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:01:26,940(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:01:27,048(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:01:27,081(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:01:27,082(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:01:27,083(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:01:27,180(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:01:27,239(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:01:27,401(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:01:27,406(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:01:27,523(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:01:27,541(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:01:27,542(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:01:27,543(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:01:27,635(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:01:27,690(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:01:27,822(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:01:27,825(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:01:27,946(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:01:27,966(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:01:27,966(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:01:27,967(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:01:28,061(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:01:28,116(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:01:28,249(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:01:28,252(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:01:28,364(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:01:28,389(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:01:28,390(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:01:28,391(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:01:28,495(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:01:28,563(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:01:28,719(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:01:28,723(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:01:28,839(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:01:28,870(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:01:28,871(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:01:28,871(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:01:28,983(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:01:29,054(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:01:29,213(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:01:29,216(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:01:29,321(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:01:29,471(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:01:34,449(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:01:34,449(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:01:35,305(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:01:35,307(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-08 10:01:35,307(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-08 10:01:35,642(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-08 10:01:35,792(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-08 10:01:35,891(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 10:01:35,905(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-08 10:01:35,905(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Please fill out this field.
+['INFO ]2023-05-08 10:01:35,907(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:01:35,926(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:01:35,927(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:01:35,928(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-08 10:01:35,929(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-08 10:01:36,035(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-08 10:01:36,115(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-08 10:01:36,194(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 10:01:36,206(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-08 10:01:36,206(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Please fill out this field.
+['INFO ]2023-05-08 10:01:36,207(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:01:36,226(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:01:36,226(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:01:36,227(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-08 10:01:36,227(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-08 10:01:36,319(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-08 10:01:36,412(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-08 10:01:36,612(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Invalid Username and Password
+['INFO ]2023-05-08 10:01:36,612(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Invalid Username and Password
+['INFO ]2023-05-08 10:01:36,613(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:01:36,636(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:01:36,637(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:01:36,638(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-08 10:01:36,638(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-08 10:01:36,711(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-08 10:01:36,810(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-08 10:01:52,199(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:01:52,315(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:01:59,232(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:01:59,233(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:02:00,144(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:02:00,147(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-08 10:02:00,159(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Datastructures-Introduction
+['INFO ]2023-05-08 10:02:05,233(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:02:05,330(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:02:08,186(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:02:08,186(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:02:09,043(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:02:09,048(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays - try here
+['INFO ]2023-05-08 10:02:14,098(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:02:14,187(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:02:16,885(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:02:16,886(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:02:17,709(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:02:17,712(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-08 10:02:17,725(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Datastructures-Introduction - Practice Questions
+['INFO ]2023-05-08 10:02:22,748(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:02:22,843(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:02:25,473(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:02:25,473(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:02:26,302(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:02:26,305(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays
+['INFO ]2023-05-08 10:02:26,305(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-08 10:02:26,315(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-08 10:02:31,390(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:02:31,499(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:02:34,512(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:02:34,513(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:02:35,378(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:02:35,381(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays - Tryhere
+['INFO ]2023-05-08 10:02:40,418(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:02:40,624(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:02:43,449(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:02:43,449(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:02:44,293(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:02:44,297(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays - Tryhere
+['INFO ]2023-05-08 10:02:49,323(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:02:49,419(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:02:52,687(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:02:52,687(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:02:53,569(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:02:53,574(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays - Arrays Using List
+['INFO ]2023-05-08 10:02:58,633(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:02:58,721(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:03:01,316(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:03:01,317(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:03:02,164(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:03:02,166(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays - Arrays Using List
+['INFO ]2023-05-08 10:03:07,198(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:03:07,283(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:03:09,763(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:03:09,764(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:03:10,612(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:03:10,616(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays - basic_operations
+['INFO ]2023-05-08 10:03:15,663(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:03:15,753(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:03:18,404(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:03:18,406(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:03:19,261(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:03:19,264(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays - basic_operations
+['INFO ]2023-05-08 10:03:24,290(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:03:24,396(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:03:26,922(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:03:26,922(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:03:27,782(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:03:27,784(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays - applications_of_array
+['INFO ]2023-05-08 10:03:32,844(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:03:32,936(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:03:35,459(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:03:35,460(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:03:36,286(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:03:36,289(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays - applications_of_array
+['INFO ]2023-05-08 10:03:41,351(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:03:41,454(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:03:44,112(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:03:44,114(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:03:45,026(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:03:45,028(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays - Practice Questions
+['INFO ]2023-05-08 10:03:50,096(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:03:50,202(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:03:52,862(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:03:52,862(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:03:53,738(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:03:53,742(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays - Practice Questions1
+['INFO ]2023-05-08 10:03:58,787(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:03:58,889(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:04:01,496(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:04:01,497(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:04:02,392(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:04:02,398(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays - Practice Questions2
+['INFO ]2023-05-08 10:04:07,427(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:04:07,527(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:04:10,126(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:04:10,126(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:04:10,962(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:04:10,966(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays - Practice Questions2
+['INFO ]2023-05-08 10:04:16,008(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:04:16,114(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:04:18,636(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:04:18,636(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:04:19,489(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:04:19,492(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays - Practice Questions3
+['INFO ]2023-05-08 10:04:24,574(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:04:24,715(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:04:27,486(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:04:27,487(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:04:28,412(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:04:28,414(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays - Practice Questions3
+['INFO ]2023-05-08 10:04:33,484(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:04:33,584(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:04:36,825(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:04:36,825(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:04:37,648(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:04:37,651(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays - Practice Questions4
+['INFO ]2023-05-08 10:04:42,714(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:04:42,803(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:04:45,467(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:04:45,467(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:04:46,216(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:04:46,218(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Arrays - Practice Questions4
+['INFO ]2023-05-08 10:04:51,235(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:04:51,326(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:04:53,645(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:04:53,646(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:04:54,415(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:04:54,417(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:04:54,427(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-08 10:04:54,433(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-08 10:04:59,462(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:04:59,557(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:05:01,895(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:05:01,895(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:05:02,642(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:05:02,645(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:05:02,650(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Linked List tryEditor page
+['INFO ]2023-05-08 10:05:02,651(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:05:07,707(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:05:07,806(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:05:10,182(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:05:10,182(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:05:10,953(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:05:10,954(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:05:10,965(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Linked List tryEditor page
+['INFO ]2023-05-08 10:05:10,965(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:05:16,029(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:05:16,116(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:05:18,402(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:05:18,402(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:05:19,229(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:05:19,229(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:05:19,238(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:05:24,284(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:05:24,367(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:05:26,804(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:05:26,805(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:05:27,552(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:05:27,555(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:05:27,562(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:05:32,602(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:05:32,704(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:05:35,008(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:05:35,008(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:05:35,751(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:05:35,753(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:05:35,762(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:05:40,825(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:05:40,912(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:05:43,183(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:05:43,185(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:05:43,993(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:05:43,994(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:05:44,002(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:05:49,056(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:05:49,149(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:05:51,609(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:05:51,609(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:05:52,448(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:05:52,450(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:05:52,461(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:05:57,484(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:05:57,607(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:06:00,063(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:06:00,063(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:06:00,879(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:06:00,881(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:06:00,889(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:06:05,937(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:06:06,028(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:06:08,448(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:06:08,448(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:06:09,256(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:06:09,256(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:06:09,264(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:06:14,344(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:06:14,427(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:06:16,902(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:06:16,902(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:06:17,684(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:06:17,686(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:06:17,693(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:06:22,712(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:06:22,808(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:06:25,107(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:06:25,107(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:06:25,924(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:06:25,926(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:06:25,933(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:06:30,967(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:06:31,065(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:06:33,612(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:06:33,612(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:06:34,348(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:06:34,349(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:06:34,356(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:06:39,432(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:06:39,528(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:06:42,185(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:06:42,185(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:06:43,028(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:06:43,028(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:06:43,035(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:06:48,066(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:06:48,158(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:06:51,131(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:06:51,131(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:06:51,954(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:06:51,955(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:06:51,960(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:06:57,005(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:06:57,098(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:06:59,655(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:06:59,655(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:07:00,461(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:07:00,461(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:07:00,466(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into LinkedList Module
+['INFO ]2023-05-08 10:07:05,515(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:07:05,609(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:07:08,492(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:07:08,493(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:07:09,318(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:07:09,320(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-08 10:07:09,327(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-08 10:07:14,342(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:07:14,444(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:07:17,554(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:07:17,554(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:07:18,387(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:07:23,428(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:07:23,527(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:07:26,711(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:07:26,711(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:07:27,571(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:07:32,583(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:07:32,683(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:07:35,436(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:07:35,436(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:07:36,244(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:07:36,245(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-select implementation in stack
+['INFO ]2023-05-08 10:07:41,263(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:07:41,351(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:07:43,942(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:07:43,943(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:07:44,791(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:07:49,817(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:07:50,019(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:07:52,866(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:07:52,866(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:07:53,699(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:07:53,700(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-selectapplications in stack
+['INFO ]2023-05-08 10:07:58,726(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:07:58,908(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:08:01,797(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:08:01,797(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:08:02,648(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:08:07,703(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:08:07,797(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:08:10,492(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:08:10,492(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:08:11,303(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:08:11,305(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-select practice questions in stack
+['INFO ]2023-05-08 10:08:16,353(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:08:16,449(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:08:18,931(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:08:18,931(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:08:19,764(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:08:19,767(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-08 10:08:19,778(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-08 10:08:24,845(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:08:24,933(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:08:27,694(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:08:27,694(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:08:28,538(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:08:33,558(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:08:33,649(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:08:36,093(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:08:36,093(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:08:36,925(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:08:42,006(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:08:42,099(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:08:44,565(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:08:44,565(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:08:45,376(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:08:45,377(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-select queue using collections
+['INFO ]2023-05-08 10:08:50,426(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:08:50,518(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:08:53,228(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:08:53,228(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:08:54,057(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:08:59,099(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:08:59,304(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:09:02,089(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:09:02,089(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:09:02,915(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:09:02,917(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-select queue using arrays
+['INFO ]2023-05-08 10:09:07,953(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:09:08,041(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:09:11,079(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:09:11,079(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:09:11,901(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:09:16,933(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:09:17,031(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:09:19,669(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:09:19,669(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:09:20,495(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:09:20,496(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-select queue operation
+['INFO ]2023-05-08 10:09:25,527(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:09:25,636(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:09:28,249(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:09:28,249(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:09:29,063(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:09:34,102(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:09:34,193(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:09:36,704(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:09:36,704(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:09:37,520(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:09:37,522(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-select practice questions in queue
+['INFO ]2023-05-08 10:09:42,587(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:09:42,676(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:09:45,517(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:09:45,517(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:09:46,335(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:09:52,406(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:09:52,511(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:09:56,834(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:09:56,834(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:09:57,595(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:10:02,648(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:10:02,739(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:10:05,275(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:10:05,275(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:10:06,112(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:10:11,183(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:10:11,274(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:10:13,966(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:10:13,966(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:10:14,847(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:10:19,873(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:10:19,967(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:10:22,881(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:10:22,882(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:10:23,636(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:10:28,702(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:10:28,784(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:10:31,302(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:10:31,302(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:10:32,185(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:10:37,220(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:10:37,324(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:10:40,041(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:10:40,041(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:10:40,886(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:10:45,940(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:10:46,030(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:10:48,626(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:10:48,627(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:10:49,471(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:10:54,529(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:10:54,613(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:10:57,458(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:10:57,458(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:10:58,273(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:11:03,300(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:11:03,399(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:11:05,960(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:11:05,960(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:11:06,784(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:11:11,804(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:11:11,899(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:11:14,520(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:11:14,520(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:11:15,268(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:11:20,292(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:11:20,388(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:11:22,840(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:11:22,840(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:11:23,682(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:11:28,722(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:11:28,810(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:11:31,519(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:11:31,519(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:11:32,328(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:11:37,374(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:11:37,459(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:11:40,095(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:11:40,096(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:11:40,926(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:11:45,983(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:11:46,076(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:11:48,873(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:11:48,873(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:11:49,607(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:11:54,650(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:11:54,743(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:11:57,398(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:11:57,398(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:11:58,163(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:12:03,213(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:12:03,306(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:12:05,843(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:12:05,843(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:12:06,668(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:12:11,706(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:12:11,792(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:12:14,598(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:12:14,599(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:12:15,343(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:12:20,400(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:12:20,493(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:12:23,020(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:12:23,020(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:12:23,862(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:12:28,908(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:12:29,003(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:12:31,654(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:12:31,654(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:12:32,431(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:12:37,491(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:12:37,589(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:12:40,368(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:12:40,369(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:12:41,160(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:12:46,224(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:12:46,312(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:12:48,972(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:12:48,972(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:12:49,721(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:12:54,750(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:12:54,853(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:12:57,390(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:12:57,390(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:12:58,141(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:13:03,180(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:13:03,265(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:13:05,919(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:13:05,919(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:13:06,652(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:13:11,669(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:13:11,764(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:13:14,229(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:13:14,229(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:13:15,083(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:13:20,139(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:13:20,228(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:13:22,977(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:13:22,977(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:13:23,774(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:13:28,831(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:13:28,940(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:13:31,729(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:13:31,729(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:13:32,593(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:13:37,641(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:13:37,735(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:13:40,519(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:13:40,519(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:13:41,336(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:13:46,396(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:13:46,499(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:13:49,431(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:13:49,431(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:13:50,242(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:13:50,245(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-08 10:13:50,251(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-08 10:13:55,264(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:13:55,368(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:13:58,018(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:13:58,019(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:13:58,759(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:14:03,774(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:14:03,862(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:14:06,403(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:14:06,403(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:14:07,252(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:14:12,316(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:14:12,407(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:14:15,422(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:14:15,422(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:14:16,249(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:14:21,261(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:14:21,356(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:14:24,053(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:14:24,054(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:14:24,888(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:14:29,920(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:14:30,005(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:14:32,712(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:14:32,712(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:14:33,547(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:14:33,548(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-select practice questions in graph
+['INFO ]2023-05-08 10:14:38,613(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:14:38,708(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:24:44,908(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:24:44,914(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:24:46,436(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:24:46,468(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-launch browser
+['INFO ]2023-05-08 10:24:46,479(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com
+['INFO ]2023-05-08 10:24:46,642(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-portal opened
+['INFO ]2023-05-08 10:24:46,911(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Getstarted btn click
+['INFO ]2023-05-08 10:24:46,931(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-NumpyNinja
+['INFO ]2023-05-08 10:24:46,933(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigated to home page
+['INFO ]2023-05-08 10:24:46,936(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:24:47,014(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:24:47,016(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:24:47,018(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Home Page dropdown click
+['INFO ]2023-05-08 10:24:47,018(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-08 10:24:47,028(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-08 10:24:47,074(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter arrayselection
+['ERROR]2023-05-08 10:24:47,228(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-shows user not logged in
+['INFO ]2023-05-08 10:24:47,259(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:24:47,274(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:24:47,275(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:24:47,328(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Get started button click
+['INFO ]2023-05-08 10:24:47,328(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['ERROR]2023-05-08 10:24:47,466(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-shows user not logged in
+['INFO ]2023-05-08 10:24:47,486(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:24:47,518(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:24:47,520(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:24:47,521(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:24:47,638(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:24:48,206(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:24:48,385(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:24:48,388(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:24:48,544(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 10:24:48,556(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:24:48,574(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:24:48,574(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:24:48,575(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:24:48,671(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:24:48,718(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:24:48,859(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:24:48,863(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:24:49,009(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 10:24:49,021(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:24:49,031(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:24:49,032(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:24:49,033(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:24:49,125(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:24:49,183(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:24:49,346(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:24:49,349(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:24:49,460(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 10:24:49,469(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:24:49,479(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:24:49,480(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:24:49,480(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:24:49,564(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:24:49,604(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:24:49,785(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:24:49,789(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:24:49,898(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:24:49,912(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:24:49,913(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:24:49,914(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:24:50,006(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:24:50,038(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:24:50,232(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:24:50,236(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:24:50,352(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:24:50,363(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:24:50,364(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:24:50,364(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:24:50,448(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:24:50,474(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:24:50,605(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:24:50,608(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:24:50,719(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:24:50,733(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:24:50,734(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:24:50,734(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:24:50,827(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:24:50,847(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:24:51,002(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:24:51,004(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:24:51,119(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:24:51,129(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:24:51,129(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:24:51,130(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:24:51,225(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:24:51,275(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:24:51,435(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:24:51,441(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:24:51,554(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:24:51,583(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:24:51,585(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:24:51,586(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:24:51,697(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:24:51,739(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:24:51,904(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:24:51,908(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:24:52,026(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:24:52,050(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:24:52,051(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:24:52,052(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:24:52,154(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:24:52,202(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:24:52,361(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:24:52,365(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:24:52,493(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:24:52,524(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:24:52,526(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:24:52,528(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:24:52,624(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:24:52,670(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:24:52,855(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:24:52,859(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:24:52,964(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:24:53,132(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:24:55,232(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:24:55,232(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:24:55,996(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:24:55,998(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-08 10:24:55,998(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-08 10:24:56,310(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-08 10:24:56,429(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-08 10:24:56,530(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 10:24:56,546(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-08 10:24:56,547(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Please fill out this field.
+['INFO ]2023-05-08 10:24:56,548(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:24:56,563(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:24:56,564(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:24:56,566(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-08 10:24:56,566(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-08 10:24:56,638(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-08 10:24:56,733(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-08 10:24:56,801(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 10:24:56,814(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-08 10:24:56,815(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Please fill out this field.
+['INFO ]2023-05-08 10:24:56,815(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:24:56,842(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:24:56,843(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:24:56,844(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-08 10:24:56,845(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-08 10:24:56,928(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-08 10:24:57,022(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-08 10:24:57,194(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Invalid Username and Password
+['INFO ]2023-05-08 10:24:57,194(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Invalid Username and Password
+['INFO ]2023-05-08 10:24:57,195(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:24:57,217(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:24:57,218(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:24:57,219(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-08 10:24:57,219(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-08 10:24:57,306(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-08 10:24:57,407(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-08 10:25:12,832(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:25:12,950(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:25:15,860(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:25:15,860(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:25:16,641(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:25:16,642(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-08 10:25:16,650(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Datastructures-Introduction
+['INFO ]2023-05-08 10:25:21,708(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:25:21,806(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 10:43:53,035(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:43:53,039(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:43:54,650(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:43:54,674(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-launch browser
+['INFO ]2023-05-08 10:43:54,683(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com
+['INFO ]2023-05-08 10:43:54,849(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-portal opened
+['INFO ]2023-05-08 10:43:55,129(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Getstarted btn click
+['INFO ]2023-05-08 10:43:55,152(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-NumpyNinja
+['INFO ]2023-05-08 10:43:55,154(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigated to home page
+['INFO ]2023-05-08 10:43:55,157(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:43:55,227(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:43:55,228(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:43:55,228(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Home Page dropdown click
+['INFO ]2023-05-08 10:43:55,229(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-08 10:43:55,236(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-08 10:43:55,288(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter arrayselection
+['ERROR]2023-05-08 10:43:55,429(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-shows user not logged in
+['INFO ]2023-05-08 10:43:55,455(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:43:55,467(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:43:55,468(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:43:55,539(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Get started button click
+['INFO ]2023-05-08 10:43:55,539(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['ERROR]2023-05-08 10:43:55,667(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-shows user not logged in
+['INFO ]2023-05-08 10:43:55,687(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:43:55,716(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:43:55,716(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:43:55,717(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:43:55,843(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:43:56,426(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:43:56,616(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:43:56,621(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:43:56,763(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 10:43:56,774(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:43:56,787(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:43:56,787(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:43:56,788(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:43:56,887(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:43:56,948(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:43:57,097(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:43:57,102(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:43:57,219(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 10:43:57,229(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:43:57,239(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:43:57,240(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:43:57,240(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:43:57,330(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:43:57,374(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:43:57,514(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:43:57,518(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:43:57,650(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 10:43:57,660(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:43:57,671(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:43:57,671(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:43:57,672(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:43:57,779(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:43:57,821(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:43:57,979(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:43:57,984(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:43:58,096(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:43:58,110(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:43:58,110(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:43:58,111(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:43:58,194(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:43:58,224(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:43:58,415(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:43:58,420(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:43:58,538(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:43:58,547(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:43:58,548(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:43:58,548(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:43:58,630(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:43:58,662(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:43:58,809(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:43:58,812(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:43:58,927(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:43:58,936(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:43:58,936(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:43:58,937(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:43:59,022(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:43:59,046(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:43:59,213(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:43:59,218(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:43:59,337(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:43:59,362(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:43:59,364(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:43:59,365(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:43:59,460(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:43:59,542(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:43:59,697(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:43:59,701(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:43:59,810(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:43:59,837(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:43:59,839(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:43:59,840(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:43:59,961(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:44:00,026(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:44:00,182(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:44:00,186(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:44:00,298(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:44:00,323(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:44:00,324(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:44:00,326(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:44:00,422(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:44:00,470(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:44:00,616(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:44:00,620(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:44:00,743(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:44:00,768(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:44:00,769(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:44:00,770(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:44:00,864(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:44:00,933(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:44:01,079(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:44:01,082(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:44:01,189(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:44:01,381(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:44:01,382(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:44:01,384(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-08 10:44:01,384(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-08 10:44:01,465(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-08 10:44:01,556(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-08 10:44:01,669(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 10:44:01,687(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-08 10:44:01,687(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Please fill out this field.
+['INFO ]2023-05-08 10:44:01,688(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:44:01,708(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:44:01,710(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:44:01,711(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-08 10:44:01,711(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-08 10:44:01,778(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-08 10:44:01,891(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-08 10:44:02,001(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 10:44:02,032(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-08 10:44:02,032(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Please fill out this field.
+['INFO ]2023-05-08 10:44:02,034(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:44:02,064(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:44:02,066(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:44:02,067(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-08 10:44:02,068(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-08 10:44:02,155(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-08 10:44:02,314(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-08 10:44:02,549(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Invalid Username and Password
+['INFO ]2023-05-08 10:44:02,549(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Invalid Username and Password
+['INFO ]2023-05-08 10:44:02,550(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:44:02,575(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:44:02,577(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:44:02,578(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-08 10:44:02,579(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-08 10:44:02,654(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-08 10:44:02,833(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-08 10:44:03,128(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  You are logged in
+['INFO ]2023-05-08 10:44:03,128(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  You are logged in
+['INFO ]2023-05-08 10:44:03,129(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:45:34,542(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:45:34,547(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 10:45:36,537(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:45:36,567(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-launch browser
+['INFO ]2023-05-08 10:45:36,577(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com
+['INFO ]2023-05-08 10:45:36,771(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-portal opened
+['INFO ]2023-05-08 10:45:37,063(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Getstarted btn click
+['INFO ]2023-05-08 10:45:37,093(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-NumpyNinja
+['INFO ]2023-05-08 10:45:37,097(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigated to home page
+['INFO ]2023-05-08 10:45:37,100(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:45:37,207(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:45:37,208(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:45:37,209(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Home Page dropdown click
+['INFO ]2023-05-08 10:45:37,210(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-08 10:45:37,220(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-08 10:45:37,279(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter arrayselection
+['ERROR]2023-05-08 10:45:37,452(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-shows user not logged in
+['INFO ]2023-05-08 10:45:37,485(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:45:37,502(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:45:37,503(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:45:37,553(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Get started button click
+['INFO ]2023-05-08 10:45:37,553(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['ERROR]2023-05-08 10:45:37,704(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-shows user not logged in
+['INFO ]2023-05-08 10:45:37,728(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:45:37,762(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:45:37,766(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:45:37,768(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:45:37,932(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:45:38,729(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:45:38,944(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:45:38,951(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:45:39,125(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 10:45:39,141(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:45:39,159(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:45:39,160(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:45:39,161(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:45:39,272(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:45:39,350(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:45:39,523(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:45:39,527(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:45:39,694(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 10:45:39,705(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:45:39,716(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:45:39,716(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:45:39,717(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:45:39,831(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:45:39,932(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:45:40,282(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:45:40,291(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:45:40,451(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 10:45:40,467(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:45:40,495(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:45:40,497(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:45:40,500(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:45:40,663(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:45:40,981(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:45:41,778(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:45:41,807(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:45:42,017(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:45:42,258(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:45:42,259(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:45:42,260(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:45:42,433(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:45:42,670(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:45:43,161(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:45:43,172(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:45:43,546(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:45:43,850(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:45:43,851(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:45:43,853(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:45:44,290(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:45:44,744(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:45:45,874(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:45:45,885(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:45:46,118(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:45:46,162(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:45:46,163(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:45:46,166(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:45:46,433(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:45:46,498(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:45:47,048(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:45:47,052(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:45:47,235(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:45:47,361(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:45:47,361(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:45:47,364(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:45:47,876(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:45:48,165(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:45:48,824(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:45:48,830(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:45:49,077(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:45:49,220(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:45:49,221(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:45:49,222(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:45:49,490(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:45:49,775(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:45:50,010(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:45:50,015(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:45:50,218(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:45:50,241(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:45:50,242(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:45:50,244(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:45:50,361(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:45:50,415(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:45:50,609(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:45:50,614(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:45:50,763(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:45:50,788(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:45:50,789(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:45:50,790(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 10:45:50,906(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 10:45:51,180(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 10:45:51,864(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 10:45:51,868(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 10:45:52,035(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:45:52,881(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:45:52,884(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:45:52,886(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-08 10:45:52,886(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-08 10:45:53,101(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-08 10:45:53,575(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-08 10:45:53,978(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 10:45:54,146(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-08 10:45:54,146(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Please fill out this field.
+['INFO ]2023-05-08 10:45:54,148(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:45:54,173(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:45:54,174(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:45:54,176(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-08 10:45:54,176(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-08 10:45:54,368(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-08 10:45:54,542(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-08 10:45:54,883(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 10:45:54,921(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-08 10:45:54,921(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Please fill out this field.
+['INFO ]2023-05-08 10:45:54,922(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:45:54,956(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:45:54,958(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:45:54,959(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-08 10:45:54,959(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-08 10:45:55,101(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-08 10:45:55,462(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-08 10:45:56,095(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Invalid Username and Password
+['INFO ]2023-05-08 10:45:56,096(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Invalid Username and Password
+['INFO ]2023-05-08 10:45:56,097(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 10:45:56,135(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 10:45:56,138(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 10:45:56,138(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-08 10:45:56,138(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-08 10:45:56,283(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-08 10:45:56,556(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-08 10:45:57,125(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  You are logged in
+['INFO ]2023-05-08 10:45:57,126(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  You are logged in
+['INFO ]2023-05-08 10:45:57,127(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 11:04:21,689(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 11:04:21,693(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 11:04:23,419(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 11:04:23,442(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-launch browser
+['INFO ]2023-05-08 11:04:23,451(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com
+['INFO ]2023-05-08 11:04:23,622(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-portal opened
+['INFO ]2023-05-08 11:04:23,864(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Getstarted btn click
+['INFO ]2023-05-08 11:04:23,882(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-NumpyNinja
+['INFO ]2023-05-08 11:04:23,884(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigated to home page
+['INFO ]2023-05-08 11:04:23,888(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 11:04:23,951(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 11:04:23,952(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 11:04:23,953(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Home Page dropdown click
+['INFO ]2023-05-08 11:04:23,953(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-08 11:04:23,961(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-08 11:04:24,005(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter arrayselection
+['ERROR]2023-05-08 11:04:24,154(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-shows user not logged in
+['INFO ]2023-05-08 11:04:24,176(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 11:04:24,189(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 11:04:24,189(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 11:04:24,241(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Get started button click
+['INFO ]2023-05-08 11:04:24,242(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['ERROR]2023-05-08 11:04:24,368(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-shows user not logged in
+['INFO ]2023-05-08 11:04:24,387(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 11:04:24,421(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 11:04:24,422(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 11:04:24,423(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 11:04:24,541(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 11:04:25,098(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 11:04:25,263(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 11:04:25,269(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 11:04:25,415(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 11:04:25,427(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 11:04:25,437(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 11:04:25,437(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 11:04:25,438(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 11:04:25,531(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 11:04:25,582(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 11:04:25,717(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 11:04:25,720(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 11:04:25,829(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 11:04:25,837(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 11:04:25,850(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 11:04:25,851(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 11:04:25,851(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 11:04:25,950(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 11:04:25,994(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 11:04:26,133(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 11:04:26,135(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 11:04:26,255(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 11:04:26,265(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 11:04:26,273(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 11:04:26,273(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 11:04:26,274(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 11:04:26,360(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 11:04:26,397(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 11:04:26,550(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 11:04:26,553(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 11:04:26,651(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 11:04:26,665(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 11:04:26,665(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 11:04:26,666(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 11:04:26,751(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 11:04:26,780(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 11:04:26,972(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 11:04:26,976(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 11:04:27,084(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 11:04:27,094(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 11:04:27,094(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 11:04:27,096(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 11:04:27,174(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 11:04:27,205(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 11:04:27,391(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 11:04:27,395(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 11:04:27,513(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 11:04:27,528(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 11:04:27,529(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 11:04:27,529(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 11:04:27,623(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 11:04:27,646(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 11:04:27,775(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 11:04:27,779(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 11:04:27,883(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 11:04:27,892(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 11:04:27,893(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 11:04:27,893(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 11:04:27,980(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 11:04:28,008(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 11:04:28,135(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 11:04:28,139(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 11:04:28,252(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 11:04:28,265(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 11:04:28,266(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 11:04:28,266(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 11:04:28,352(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 11:04:28,378(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 11:04:28,507(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 11:04:28,510(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 11:04:28,613(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 11:04:28,622(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 11:04:28,623(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 11:04:28,623(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 11:04:28,704(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 11:04:28,724(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 11:04:28,852(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 11:04:28,854(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 11:04:28,965(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 11:04:28,979(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 11:04:28,980(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 11:04:28,980(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration link click
+['INFO ]2023-05-08 11:04:29,064(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enter registration credentials
+['INFO ]2023-05-08 11:04:29,096(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-excel list size : 999
+['INFO ]2023-05-08 11:04:29,242(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Registration credentials entered
+['INFO ]2023-05-08 11:04:29,246(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Register button click
+['INFO ]2023-05-08 11:04:29,358(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 11:04:29,500(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-05-08 11:04:31,617(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 11:04:31,617(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-08 11:04:32,338(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 11:04:32,339(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-08 11:04:32,339(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-08 11:04:32,606(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-08 11:04:32,737(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-08 11:04:32,819(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 11:04:32,832(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-08 11:04:32,832(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Please fill out this field.
+['INFO ]2023-05-08 11:04:32,832(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 11:04:32,845(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 11:04:32,846(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 11:04:32,846(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-08 11:04:32,847(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-08 11:04:32,913(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-08 11:04:32,993(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-08 11:04:33,059(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-08 11:04:33,070(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-08 11:04:33,071(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Please fill out this field.
+['INFO ]2023-05-08 11:04:33,071(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 11:04:33,083(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 11:04:33,084(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 11:04:33,085(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-08 11:04:33,085(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-08 11:04:33,164(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-08 11:04:33,244(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-08 11:04:33,413(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Invalid Username and Password
+['INFO ]2023-05-08 11:04:33,414(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Invalid Username and Password
+['INFO ]2023-05-08 11:04:33,414(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-08 11:04:33,422(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 0
+['INFO ]2023-05-08 11:04:33,422(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before hook order 1
+['INFO ]2023-05-08 11:04:33,423(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-08 11:04:33,423(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-08 11:04:33,477(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-08 11:04:33,563(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-08 11:04:33,820(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  You are logged in
+['INFO ]2023-05-08 11:04:33,820(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  You are logged in
+['INFO ]2023-05-08 11:04:33,821(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
