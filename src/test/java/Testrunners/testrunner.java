@@ -1,7 +1,9 @@
 package Testrunners;
 
 import org.junit.runner.RunWith;
+import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
+import org.testng.annotations.Parameters;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
@@ -10,8 +12,8 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		plugin = {"pretty", "html:target/Ds-algo.html",  //cucumber reports
-				"json:target/Ds-algo.json",
+		plugin = {"pretty", "html:target/NewDs-algo.html",  //cucumber reports
+				"json:target/NewDs-algo.json",
 				"rerun:target/rerun.txt", //mandatory for capture failures 
 				"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
 				"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"}, //reporting purpose-- html reports are created
@@ -19,7 +21,7 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 		//dryRun=false, // (=true)->compilation purpose mostly to chk stepdefinitions are implemented or not
 		//tags = "@tag1 or @tag2 or @tag3 or @tag4 or @tag5", //tags from feature file
 		//tags from feature file
-		tags = "@tag1 or @tag2 or @tag3 or @tag4",
+		tags = "",
 		features = {"src/test/resources/Features"}, //location of feature files, we can give this way-->".//features//"
 		glue= {"stepdefinitions","Allhooks"}) //location of step definition files, gives granural level of info in test result
 
@@ -30,5 +32,6 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 public Object[][] scenarios() {
 	return super.scenarios();
 }*/
+
 
 }

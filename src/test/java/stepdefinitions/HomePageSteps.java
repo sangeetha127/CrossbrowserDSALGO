@@ -23,12 +23,14 @@ public class HomePageSteps extends Combase {
 		LoggerLoad.info("Home Page dropdown click");
 		homepage = new HomePage(driversetup.getDriver());
 		homepage.dropDownclk();
+		Thread.sleep(2000);
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
 	}
 
 	@When("User click on arrays from the dropdown")
 	public void user_click_on_arrays_from_the_dropdown() throws InterruptedException {
 		homepage.arrays();
+		Thread.sleep(2000);
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
 	}
 
@@ -45,12 +47,14 @@ public class HomePageSteps extends Combase {
 	   LoggerLoad.info("Get started button click");
 	   homepage = new HomePage(driversetup.getDriver());
 	   homepage.modulegtstarted();
+	   Thread.sleep(2000);
 	   driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
 	}
 	@Then("It is showing error message You are not logged in")
 	public void it_is_showing_error_message_you_are_not_logged_in() {
 		LoggerLoad.error("shows user not logged in");
 		String actmsg1=homepage.alert();
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 		 assertEquals(actmsg1,"You are not logged in");
 	}
 
