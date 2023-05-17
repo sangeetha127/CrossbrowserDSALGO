@@ -121,3 +121,249 @@
 ['INFO ]2023-05-17 15:56:34,095(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  You are logged in
 ['INFO ]2023-05-17 15:56:34,095(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  You are logged in
 ['INFO ]2023-05-17 15:56:34,096(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:22,076(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-17 16:56:24,117(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-launch browser
+['INFO ]2023-05-17 16:56:24,121(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:24,122(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com
+['INFO ]2023-05-17 16:56:24,292(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-portal opened
+['INFO ]2023-05-17 16:56:24,292(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:24,554(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Getstarted btn click
+['INFO ]2023-05-17 16:56:26,561(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:26,572(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-NumpyNinja
+['INFO ]2023-05-17 16:56:26,574(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigated to home page
+['INFO ]2023-05-17 16:56:28,593(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:28,643(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Home Page dropdown click
+['INFO ]2023-05-17 16:56:28,643(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-17 16:56:28,649(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-17 16:56:30,714(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:30,715(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter arrayselection
+['INFO ]2023-05-17 16:56:32,903(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['ERROR]2023-05-17 16:56:32,906(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-shows user not logged in
+['INFO ]2023-05-17 16:56:32,949(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:33,044(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Get started button click
+['INFO ]2023-05-17 16:56:33,044(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-17 16:56:35,225(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['ERROR]2023-05-17 16:56:35,226(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-shows user not logged in
+['INFO ]2023-05-17 16:56:35,261(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:35,291(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-17 16:56:35,291(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-17 16:56:35,363(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:36,192(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-17 16:56:36,326(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:36,327(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-17 16:56:36,474(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-17 16:56:36,492(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-17 16:56:36,493(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Please fill out this field.
+['INFO ]2023-05-17 16:56:36,493(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:36,511(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-17 16:56:36,512(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-17 16:56:36,592(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:36,638(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-17 16:56:36,750(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:36,751(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-17 16:56:36,867(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-17 16:56:36,887(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-17 16:56:36,888(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Please fill out this field.
+['INFO ]2023-05-17 16:56:36,888(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:36,932(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-17 16:56:36,932(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-17 16:56:37,025(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:37,070(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-17 16:56:37,190(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:37,191(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-17 16:56:37,401(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Invalid Username and Password
+['INFO ]2023-05-17 16:56:37,401(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Invalid Username and Password
+['INFO ]2023-05-17 16:56:37,402(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:37,427(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-17 16:56:37,427(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-17 16:56:37,537(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:37,589(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-17 16:56:37,727(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:37,727(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-17 16:56:38,112(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  You are logged in
+['INFO ]2023-05-17 16:56:38,113(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  You are logged in
+['INFO ]2023-05-17 16:56:38,113(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:41,386(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-launch browser
+['INFO ]2023-05-17 16:56:41,387(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:41,388(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com
+['INFO ]2023-05-17 16:56:41,585(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-portal opened
+['INFO ]2023-05-17 16:56:41,585(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:41,872(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Getstarted btn click
+['INFO ]2023-05-17 16:56:43,888(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:43,903(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-NumpyNinja
+['INFO ]2023-05-17 16:56:43,903(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigated to home page
+['INFO ]2023-05-17 16:56:45,917(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:45,928(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Home Page dropdown click
+['INFO ]2023-05-17 16:56:45,928(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-17 16:56:45,937(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-17 16:56:48,000(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:48,001(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter arrayselection
+['INFO ]2023-05-17 16:56:50,172(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['ERROR]2023-05-17 16:56:50,175(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-shows user not logged in
+['INFO ]2023-05-17 16:56:50,214(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:50,301(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Get started button click
+['INFO ]2023-05-17 16:56:50,302(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-17 16:56:52,471(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['ERROR]2023-05-17 16:56:52,471(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-shows user not logged in
+['INFO ]2023-05-17 16:56:52,537(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:52,562(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-17 16:56:52,562(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-17 16:56:52,647(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:52,681(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-17 16:56:52,835(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:52,836(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-17 16:56:52,955(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-17 16:56:52,974(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-17 16:56:52,974(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Please fill out this field.
+['INFO ]2023-05-17 16:56:52,975(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:52,995(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-17 16:56:52,995(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-17 16:56:53,056(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:53,097(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-17 16:56:53,194(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:53,195(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-17 16:56:53,304(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-17 16:56:53,326(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-17 16:56:53,327(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Please fill out this field.
+['INFO ]2023-05-17 16:56:53,327(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:53,347(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-17 16:56:53,347(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-17 16:56:53,406(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:53,442(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-17 16:56:53,570(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:53,570(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-17 16:56:53,792(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Invalid Username and Password
+['INFO ]2023-05-17 16:56:53,792(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Invalid Username and Password
+['INFO ]2023-05-17 16:56:53,792(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:53,810(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-17 16:56:53,811(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-17 16:56:53,880(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:53,914(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-17 16:56:54,058(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:56:54,058(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-17 16:56:54,362(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  You are logged in
+['INFO ]2023-05-17 16:56:54,362(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  You are logged in
+['INFO ]2023-05-17 16:56:54,364(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:16,887(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getchromedriver
+['INFO ]2023-05-17 16:57:18,707(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-launch browser
+['INFO ]2023-05-17 16:57:18,710(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:18,711(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com
+['INFO ]2023-05-17 16:57:18,889(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-portal opened
+['INFO ]2023-05-17 16:57:18,890(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:19,147(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Getstarted btn click
+['INFO ]2023-05-17 16:57:21,159(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:21,171(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-NumpyNinja
+['INFO ]2023-05-17 16:57:21,172(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigated to home page
+['INFO ]2023-05-17 16:57:23,192(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:23,256(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Home Page dropdown click
+['INFO ]2023-05-17 16:57:23,256(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-17 16:57:23,263(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-17 16:57:25,328(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:25,329(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter arrayselection
+['INFO ]2023-05-17 16:57:27,493(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['ERROR]2023-05-17 16:57:27,494(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-shows user not logged in
+['INFO ]2023-05-17 16:57:27,538(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:27,628(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Get started button click
+['INFO ]2023-05-17 16:57:27,628(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-17 16:57:29,792(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['ERROR]2023-05-17 16:57:29,793(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-shows user not logged in
+['INFO ]2023-05-17 16:57:29,820(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:29,851(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-17 16:57:29,851(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-17 16:57:29,930(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:30,850(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-17 16:57:31,028(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:31,028(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-17 16:57:31,164(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-17 16:57:31,181(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-17 16:57:31,182(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Please fill out this field.
+['INFO ]2023-05-17 16:57:31,182(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:31,201(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-17 16:57:31,201(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-17 16:57:31,289(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:31,344(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-17 16:57:31,449(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:31,450(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-17 16:57:31,582(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-17 16:57:31,605(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-17 16:57:31,605(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Please fill out this field.
+['INFO ]2023-05-17 16:57:31,606(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:31,640(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-17 16:57:31,640(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-17 16:57:31,726(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:31,783(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-17 16:57:31,918(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:31,919(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-17 16:57:32,163(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Invalid Username and Password
+['INFO ]2023-05-17 16:57:32,163(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Invalid Username and Password
+['INFO ]2023-05-17 16:57:32,164(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:32,181(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-17 16:57:32,181(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-17 16:57:32,291(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:32,329(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-17 16:57:32,445(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:32,445(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-17 16:57:32,811(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  You are logged in
+['INFO ]2023-05-17 16:57:32,811(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  You are logged in
+['INFO ]2023-05-17 16:57:32,811(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:35,664(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-launch browser
+['INFO ]2023-05-17 16:57:35,665(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:35,665(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com
+['INFO ]2023-05-17 16:57:35,869(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-portal opened
+['INFO ]2023-05-17 16:57:35,870(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:36,142(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Getstarted btn click
+['INFO ]2023-05-17 16:57:38,159(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:38,180(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-NumpyNinja
+['INFO ]2023-05-17 16:57:38,180(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User navigated to home page
+['INFO ]2023-05-17 16:57:40,201(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:40,217(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Home Page dropdown click
+['INFO ]2023-05-17 16:57:40,217(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-17 16:57:40,226(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter dropdownclk
+['INFO ]2023-05-17 16:57:42,301(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:42,302(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter arrayselection
+['INFO ]2023-05-17 16:57:44,492(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['ERROR]2023-05-17 16:57:44,495(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-shows user not logged in
+['INFO ]2023-05-17 16:57:44,550(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:44,646(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Get started button click
+['INFO ]2023-05-17 16:57:44,647(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter homepage feature
+['INFO ]2023-05-17 16:57:46,804(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['ERROR]2023-05-17 16:57:46,804(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-shows user not logged in
+['INFO ]2023-05-17 16:57:46,848(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:46,866(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-17 16:57:46,866(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-17 16:57:46,942(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:46,977(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-17 16:57:47,120(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:47,121(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-17 16:57:47,224(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-17 16:57:47,238(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-17 16:57:47,239(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Please fill out this field.
+['INFO ]2023-05-17 16:57:47,239(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:47,252(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-17 16:57:47,252(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-17 16:57:47,309(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:47,349(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-17 16:57:47,467(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:47,468(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-17 16:57:47,558(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-05-17 16:57:47,572(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Please fill out this field.
+['INFO ]2023-05-17 16:57:47,574(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Please fill out this field.
+['INFO ]2023-05-17 16:57:47,574(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:47,589(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-17 16:57:47,589(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-17 16:57:47,658(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:47,690(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-17 16:57:47,802(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:47,802(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-17 16:57:48,005(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  Invalid Username and Password
+['INFO ]2023-05-17 16:57:48,005(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  Invalid Username and Password
+['INFO ]2023-05-17 16:57:48,006(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:48,029(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Login page entered
+['INFO ]2023-05-17 16:57:48,029(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://dsportalapp.herokuapp.com/login
+['INFO ]2023-05-17 16:57:48,115(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:48,152(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User name and password enter
+['INFO ]2023-05-17 16:57:48,275(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
+['INFO ]2023-05-17 16:57:48,276(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on login button
+['INFO ]2023-05-17 16:57:48,561(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Message - Excel Sheet :  You are logged in
+['INFO ]2023-05-17 16:57:48,562(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Actual Message :  You are logged in
+['INFO ]2023-05-17 16:57:48,562(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter after hook
